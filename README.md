@@ -11,3 +11,12 @@ Output Link: ![Challenge 001 - Sign Up](https://www.figma.com/proto/P3ftfww2o6m6
 
 Output Image:
 ![Challenge 001 - Prompt_ Sign Up](https://github.com/dara08/DailyUI/assets/110615368/a762119e-0453-4b4f-a83f-2233641f8b9d)
+
+# Challenge #002 - Prompt: Credit Card Checkout
+
+Design a credit card checkout form or page. Don't forget the important elements such as the numbers, dates, security numbers, etc.
+
+Output Link: ![Challenge #002 - Prompt: Credit Card Checkout]([https://www.figma.com/proto/P3ftfww2o6m6myiWoX0df9/DAILY-UI-CHALLENGE?type=design&node-id=1-2&t=lBRzHclsrNrhNpHL-0&scaling=scale-down&page-id=0%3A1&hide-ui=1](https://www.figma.com/proto/P3ftfww2o6m6myiWoX0df9/DAILY-UI-CHALLENGE?page-id=0%3A1&type=design&node-id=20-164&viewport=-504%2C760%2C1.16&t=lOOPTW906NLcFuH0-1&scaling=min-zoom&mode=design)https://www.figma.com/proto/P3ftfww2o6m6myiWoX0df9/DAILY-UI-CHALLENGE?page-id=0%3A1&type=design&node-id=20-164&viewport=-504%2C760%2C1.16&t=lOOPTW906NLcFuH0-1&scaling=min-zoom&mode=design)
+
+Output Image:
+![Challenge #002 - Prompt: Credit Card Checkout](https://github.com/dara08/DailyUI/assets/110615368/6e18d8fa-34cb-4edf-b0dc-413189a049f7)
