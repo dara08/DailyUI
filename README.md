@@ -64,3 +64,15 @@ Output Image:
 ![Challenge #006 - Prompt_ User Profile](https://github.com/dara08/DailyUI/assets/110615368/2cdab8ed-7a5b-48f1-bbdc-715c9da77a51)
 
 
+# Challenge #007 - Prompt_ Settings
+
+Design a credit card checkout form or page. Don't forget the important elements such as the numbers, dates, security numbers, etc.
+
+Output Link: ![Challenge #007 - Prompt_ Settings](https://www.figma.com/proto/P3ftfww2o6m6myiWoX0df9/DAILY-UI-CHALLENGE?page-id=0%3A1&type=design&node-id=94-2&viewport=-16672%2C-507%2C2.08&t=PVtmEXsQZcle5ctz-1&scaling=min-zoom&mode=design)
+
+Output Image:
+
+![Challenge #007 - Prompt_ Settings](https://github.com/dara08/DailyUI/assets/110615368/6c809aa2-899e-4f59-b800-4cbf963b87b7)
+
+
+
