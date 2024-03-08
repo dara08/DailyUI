@@ -75,4 +75,22 @@ Output Image:
 ![Challenge #007 - Prompt_ Settings](https://github.com/dara08/DailyUI/assets/110615368/6c809aa2-899e-4f59-b800-4cbf963b87b7)
 
 
+# Challenge #008 - Prompt: 404 Page Design
 
+Design a credit card checkout form or page. Don't forget the important elements such as the numbers, dates, security numbers, etc.
+
+Output Link: ![Challenge #008 - Prompt: 404 Page Design](https://www.figma.com/proto/P3ftfww2o6m6myiWoX0df9/DAILY-UI-CHALLENGE?page-id=0%3A1&type=design&node-id=115-2&viewport=129%2C146%2C0.13&t=tKgRjtURbcDPrm6k-1&scaling=min-zoom&starting-point-node-id=51%3A26&mode=design)
+
+Output Image:
+
+![Challenge #008 - Prompt_ 404 Page Design](https://github.com/dara08/DailyUI/assets/110615368/8df6893b-673e-428d-a79a-93886280ebe4)
+
+# Challenge #009 - Prompt: Music Player
+
+Design a credit card checkout form or page. Don't forget the important elements such as the numbers, dates, security numbers, etc.
+
+Output Link: ![Challenge #009 - Prompt: Music Player](https://www.figma.com/proto/P3ftfww2o6m6myiWoX0df9/DAILY-UI-CHALLENGE?page-id=0%3A1&type=design&node-id=117-274&viewport=129%2C146%2C0.13&t=tKgRjtURbcDPrm6k-1&scaling=min-zoom&starting-point-node-id=51%3A26&mode=design)
+
+Output Image:
+
+![Challenge #009 - Prompt_ Music Player](https://github.com/dara08/DailyUI/assets/110615368/15d936bf-f1d7-420b-ac71-cf9a4dba8fba)
